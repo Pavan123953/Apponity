@@ -198,44 +198,44 @@ notes before your sessions</p>
 <br>
 <div class="row1">
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Calendar Scheduler.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Calendar-Scheduler.svg" >
 <h4>Calendar Scheduler</h4>
 <p style="font-size:15px;">See your entire schedule at a glance with Appointy easy-to-use calender with colour-coded tiles for teachers and sessions Sync schedule with your personal or professional calenders so that you are never double booked</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Class Reminders.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Class-Reminders.svg" >
 <h4>Class Reminders</h4>
 <p style="font-size:15px;">Send automated email and test reminder notifications to students prior to a session,meeting or a class to ensure that they don't miss it.Customize them. to add info like room number, location links. etc.</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Resource Scheduling .svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Resource-Scheduling-1.svg" >
 <h4>Resource Scheduling </h4>
 <p style="font-size:15px;">Reserve equipmemts lab rooms,sports fields, conference halls,etc.automatically when a session is booked.Save time and reduce operational costs that come with manually allocating resources</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Booking Automation .svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Booking-convenience.svg" >
 <h4>Booking Automation </h4>
 <p style"font-size:15px;">Limit number of meeting and classes you can take in a day/week so that you are  not overloaded.Choose hoe much in advance anyone can   book/cancel,set maximum capacity for a class or session. and more</p>
 </div>
 </div>
 <div class="row1">
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Staff Management.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Team-Management-1.svg" >
 <h4>Staff Management</h4>
 <p style="font-size:15px;">Boost staff productivity and let them view and manage their own schedules and sick leaves using separate staff logins.Distribute sessions across your team automatically with intelligent staff allocation</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Online Prepayments.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Online-prepayments-1.svg" >
 <h4>Online Prepayments</h4>
 <p style="font-size:15px;">Online Prepayments</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Reporting and Analytics.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Reporting-and-Analytics-2.svg" >
 <h4>Reporting and Analytics </h4>
 <p style="font-size:15px;">Keep a track on the number of classes in a week /month,sales, staff utilization a more. Powerful  reporting tools help you spot and resolve operational inefficiencies  and resolve operational inefficiencies and help optimize your processes</p>
 </div>
 <div class="column1">
-<img src="C:/Users/Intel/Desktop/appointy/Scheduling Mobile App.svg" >
+<img src="C:/Users/Intel/Desktop/appointy/Scheduling-Mobile-App.svg" >
 <h4>Scheduling Mobile App</h4>
 <p style"font-size:15px;">Stay on top of upcoming appointment and schedule changes with Appointys Android and OS mobile app.You and staff can manage scheduling.payments.and reminders even when you are away from the desk</p>
 </div>
